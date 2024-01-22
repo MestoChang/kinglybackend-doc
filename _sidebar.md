@@ -1,40 +1,47 @@
-* [網站架構](Pages/structure.md)
+* [系統架構](Pages/structure.md)
 
-* 通用元件
+* Components
   * [Header](Pages/components/header.md)
-  * [Footer](Pages/components/footer.md)
-  * [Banner](Pages/components/banner.md)
+  * [Sidemenu](Pages/components/sidemenu.md)
 
-* 頁面規劃
-  * Landing Page
-    * [首頁](Pages/layout/homepage/default.md)
-    * [搜尋結果列表](Pages/layout/homepage/searchresult.md)
-    * [關於我們](Pages/layout/homepage/aboutus.md)
-    * [聯絡資訊](Pages/layout/homepage/contactus.md)
-    * [FAQ](Pages/layout/homepage/faq.md)
-  * 帳號系統
-    * [登入](Pages/layout/account/login.md)
-    * [登出](Pages/layout/account/logout.md)
-    * [忘記密碼](Pages/layout/account/forgetpw.md)
-      * [重設密碼](Pages/layout/account/resetpw.md)
-      * [重設密碼成功](Pages/layout/account/resetsuccess.md)
-    * [註冊會員](Pages/layout/account/signup.md)
-    * [註冊成功](Pages/layout/account/signup-success.md)
-    * 會員驗證
-      * [email內容](Pages/layout/account/vertifyemail.md)
-      * [驗證成功](Pages/layout/account/vertifysuccess.md)
-  * [會員專區(二階段)](Pages/layout/mamber/mamberarea.md)
-    <!-- * [會員資料](Pages/layout/mamber/mamberinfo.md)
-    * [會員類型說明](Pages/layout/mamber/mambertype.md) -->
-  * [內文系統](Pages/layout/content/article-system.md)
-    * [文章列表](Pages/layout/content/article-list.md)
-    * [關聯列表](Pages/layout/content/related-article.md)
-    * [文章](Pages/layout/content/article.md)
-  * [課程專欄(二階段)](Pages/layout/course/course-system.md)
-    <!-- * [課程列表](Pages/layout/course/course-list.md)
-    * [課程資訊](Pages/layout/course/course-info.md)
-    * [關看課程](Pages/layout/course/watch-course.md)
-    * [講師列表](Pages/layout/course/mentor-list.md)
-    * [講師資訊](Pages/layout/course/mentor-info.md) -->
+* 全域管理平台
+  * 主頁
+  * 管理員帳號
+    * 管理員帳號列表
+    * 新增帳號
+    * 帳號資訊
+  * 身分權限管理
+    * 身分列表
+    * 新增身分
+    * 設定身分權限
+  * 會員管理
+    * 會員列表
+    * 會員資料
+  * 交易管理
 
-* [API文件](Pages/api.md)
+* 帳號資料
+  * 主頁
+  * 登入
+    * 綁定帳號資料
+    * 重設密碼
+    * e-mail 認證
+  * 忘記密碼
+    * 輸入 PIN 碼
+  * 帳號資料
+    * 修改密碼
+    * 變更 e-mail
+    * 檢視登入紀錄
+
+* 美容百科
+  * 主頁
+  * 網站設定
+  * 會員管理
+  * 主題內容管理
+  * 課程管理
+  * 留言管理
+  * 媒體庫
+  * 關鍵字管理
+  * 廣告管理
+  * 交易管理
+  * 優惠碼管理
+
