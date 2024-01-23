@@ -36,8 +36,8 @@
   * [主頁](Pages/Beauty/main.md)
 
   * 網站設定
-    * [首頁設定](Pages/Beaury/web-setting/Home-setting.md)
-    * [更換 Banner](Pages/Beaury/web-setting/banner-setting.md)
+    * [首頁設定](Pages/Beauty/web-setting/Home-setting.md)
+    * [更換 Banner](Pages/Beauty/web-setting/banner-setting.md)
 
   * 會員管理
     * [會員列表](Pages/Beauty/member/member-list.md)
@@ -52,14 +52,37 @@
     * [新增文章](Pages/Beauty/content/add-article.md)
 
   * 課程管理 (二階段)
-
-  * 留言管理
+    * [課程列表](Pages/Beauty/course/course-list.md)
+    * [新增課程](Pages/Beauty/course/add-course.md)
+    * [課程資訊](Pages/Beauty/course/course-info.md)
+    * [講師列表](Pages/Beauty/course/mentor-list.md)
+    * [新增講師](Pages/Beauty/course/add-mentor.md)
+    * [講師資訊](Pages/Beauty/course/mentor-info.md)
 
   * 媒體庫
+    * [媒體類別列表](Pages/Beauty/media/mediafolder-list.md)
+    * [新增媒體類別](Pages/Beauty/media/add-mediafolder.md)
+    * [媒體列表](Pages/Beauty/media/media-list.md)
+    * [新增媒體](Pages/Beauty/media/add-media.md)
+    * [媒體內容](Pages/Beauty/media/media-info.md)
+    * [媒體回收桶](Pages/Beauty/media/media-trash.md)
+
+  * 留言管理
+    * [留言列表](Pages/Beauty/comment/comment-list.md)
+    * [留言](Pages/Beauty/comment/comment.md)
+    * [留言獎勵設定](Pages/Beauty/comment/comment-award.md)
 
   * 關鍵字管理
+    * [關鍵字群組列表](Pages/Beauty/keyword/keyword-group-list.md)
+    * [設定關鍵字群組](Pages/Beauty/keyword/set-keyword-group.md)
+    * [關鍵字列表](Pages/Beauty/keyword/keyword-list.md)
+    * [關鍵字關聯列表](Pages/Beauty/keyword/keyword-related-list.md)
 
-  * 廣告管理
+  * 廣告管理 (二階段)
+    * [廣告欄位列表](Pages/Beauty/advertisement/ad-position-list.md)
+    * [廣告圖片列表](Pages/Beauty/advertisement/ad-list.md)
+    * [新增廣告圖片](Pages/Beauty/advertisement/add-ad.md)
+    * [廣告圖片內容](Pages/Beauty/advertisement/ad-info.md)
 
   * 交易管理 (二階段)
 
