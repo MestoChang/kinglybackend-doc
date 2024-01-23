@@ -13,7 +13,7 @@
     * [身分列表](Pages/Center/role/role-list.md)
     * [新增身分](Pages/Center/role/add-role.md)
     * [設定身分權限](Pages/Center/role/set-role.md)
-  * 會員管理
+  * 會員管理 (二階段)
     * [會員列表](Pages/Center/member/member-list.md)
     * [會員資料](Pages/Center/member/member-info.md)
   * 交易管理 (二階段)
@@ -88,3 +88,8 @@
 
   * 優惠碼管理 (二階段)
 
+
+* 運動百科平台 (待討論)
+
+
+* 美容產品管理 (待討論)
