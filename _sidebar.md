@@ -5,11 +5,13 @@
 
 * 全域管理平台
   * [主頁](Pages/Center/main.md)
-  * 管理員帳號
+  * 管理員系統
+    * [管理員帳號規劃說明](Pages/Center/admin/administer-manage.md)
     * [管理員帳號列表](Pages/Center/admin/administer-list.md)
-    * [新增帳號](Pages/Center/admin/add-administer.md)
+    * [新增管理帳號](Pages/Center/admin/add-administer.md)
     * [帳號資訊](Pages/Center/admin/administer-info.md)
   * 身分權限管理
+    * [身分權限說明](Pages/Center/role/role-manage.md)
     * [身分列表](Pages/Center/role/role-list.md)
     * [新增身分](Pages/Center/role/add-role.md)
     * [設定身分權限](Pages/Center/role/set-role.md)
