@@ -6,7 +6,7 @@
 * 全域管理平台
   * [主頁](Pages/Center/main.md)
   * 管理員系統
-    * [管理員帳號規劃說明](Pages/Center/admin/administer-manage.md)
+    * [管理員帳號層級說明](Pages/Center/admin/administer-manage.md)
     * [管理員帳號列表](Pages/Center/admin/administer-list.md)
     * [新增管理帳號](Pages/Center/admin/add-administer.md)
     * [帳號資訊](Pages/Center/admin/administer-info.md)
@@ -16,22 +16,23 @@
     * [新增身分](Pages/Center/role/add-role.md)
     * [設定身分權限](Pages/Center/role/set-role.md)
   * 會員管理 (二階段)
-    * [會員列表](Pages/Center/member/member-list.md)
-    * [會員資料](Pages/Center/member/member-info.md)
+    <!-- * [會員列表](Pages/Center/member/member-list.md)
+    * [會員資料](Pages/Center/member/member-info.md) -->
   * 交易管理 (二階段)
 
 
-* 帳號
+* 帳號功能頁面
+  * [頁面架構說明](Pages/Account/account-page-structure.md)
   * [登入](Pages/Account/login.md)
-    * [綁定帳號資料](Pages/Account/bind-account.md)
-    * [重設密碼](Pages/Account/reset-password.md)
-    * [e-mail 認證](Pages/Account/verity-email.md)
+  * [綁定帳號資料](Pages/Account/bind-account.md)
+  * [重設密碼](Pages/Account/reset-password.md)
+  * [e-mail 認證](Pages/Account/verity-email.md)
   * [忘記密碼](Pages/Account/forget-password.md)
-    * [輸入 PIN 碼](Pages/Account/enter-pin.md)
+  * [輸入 PIN 碼](Pages/Account/enter-pin.md)
   * [帳號資料](Pages/Account/account.md)
-    * [修改密碼](Pages/Account/change-password.md)
-    * [變更 e-mail](Pages/Account/change-email.md)
-    * [檢視登入紀錄](Pages/Account/login-history.md)
+  * [修改密碼](Pages/Account/change-password.md)
+  * [變更 e-mail](Pages/Account/change-email.md)
+  * [檢視登入紀錄](Pages/Account/login-history.md)
 
 
 * 美容百科平台

@@ -1,4 +1,4 @@
-# 管理員員帳號管理
+# 管理員帳號層級說明
 
 > - 包含[管理員帳號列表](Pages/Center/admin/administer-list.md)、[新增管理帳號](Pages/Center/admin/add-administer.md)、[帳號資訊](Pages/Center/admin/administer-info.md)三個頁面。
 > - 管理員帳號有*等級*及*身分*兩個設定參數，等級決定帳號管理的權限；身分用來設定平台內功能操作。
