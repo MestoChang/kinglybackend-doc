@@ -7,14 +7,16 @@
   * [主頁](Pages/Center/main.md)
   * 管理員系統
     * [管理員帳號層級說明](Pages/Center/admin/administer-manage.md)
-    * [管理員帳號列表](Pages/Center/admin/administer-list.md)
-    * [新增管理帳號](Pages/Center/admin/add-administer.md)
-    * [帳號資訊](Pages/Center/admin/administer-info.md)
+    * 頁面說明
+      * [管理員帳號列表](Pages/Center/admin/administer-list.md)
+      * [新增管理帳號](Pages/Center/admin/add-administer.md)
+      * [帳號資訊](Pages/Center/admin/administer-info.md)
   * 身分權限管理
     * [身分權限說明](Pages/Center/role/role-manage.md)
-    * [身分列表](Pages/Center/role/role-list.md)
-    * [新增身分](Pages/Center/role/add-role.md)
-    * [設定身分權限](Pages/Center/role/set-role.md)
+    * 頁面說明
+      * [身分列表](Pages/Center/role/role-list.md)
+      * [新增身分](Pages/Center/role/add-role.md)
+      * [設定身分權限](Pages/Center/role/set-role.md)
   * 會員管理 (二階段)
     <!-- * [會員列表](Pages/Center/member/member-list.md)
     * [會員資料](Pages/Center/member/member-info.md) -->
@@ -23,16 +25,17 @@
 
 * 帳號功能頁面
   * [頁面架構說明](Pages/Account/account-page-structure.md)
-  * [登入](Pages/Account/login.md)
-  * [綁定帳號資料](Pages/Account/bind-account.md)
-  * [重設密碼](Pages/Account/reset-password.md)
-  * [e-mail 認證](Pages/Account/verity-email.md)
-  * [忘記密碼](Pages/Account/forget-password.md)
-  * [輸入 PIN 碼](Pages/Account/enter-pin.md)
-  * [帳號資料](Pages/Account/account.md)
-  * [修改密碼](Pages/Account/change-password.md)
-  * [變更 e-mail](Pages/Account/change-email.md)
-  * [檢視登入紀錄](Pages/Account/login-history.md)
+  * 頁面說明
+    * [登入](Pages/Account/login.md)
+    * [綁定帳號資料](Pages/Account/bind-account.md)
+    * [重設密碼](Pages/Account/reset-password.md)
+    * [e-mail 認證](Pages/Account/verity-email.md)
+    * [忘記密碼](Pages/Account/forget-password.md)
+    * [輸入 PIN 碼](Pages/Account/enter-pin.md)
+    * [帳號資料](Pages/Account/account.md)
+    * [修改密碼](Pages/Account/change-password.md)
+    * [變更 e-mail](Pages/Account/change-email.md)
+    * [檢視登入紀錄](Pages/Account/login-history.md)
 
 
 * 美容百科平台
@@ -41,12 +44,15 @@
   * 網站設定
     * [首頁設定](Pages/Beauty/web-setting/Home-setting.md)
     * [更換 Banner](Pages/Beauty/web-setting/banner-setting.md)
+    * [前端顯示設定](Pages/Beauty/web-setting/display-setting.md)
 
   * 會員管理
-    * [會員列表](Pages/Beauty/member/member-list.md)
-    * [會員資料](Pages/Beauty/member/member-info.md)
-    * [會員權限設定](Pages/Beauty/member/member-authority.md)
-    * [會員等級設定](Pages/Beauty/member/member-level.md)
+    * [會員類型與等級權限說明](Pages/Beauty/member/member-cat.md)
+    * 頁面說明
+      * [會員列表](Pages/Beauty/member/member-list.md)
+      * [會員資料](Pages/Beauty/member/member-info.md)
+      * [會員權限設定](Pages/Beauty/member/member-authority.md)
+      * [會員等級設定](Pages/Beauty/member/member-level.md)
 
   * 主題內容管理
     * [章節管理](Pages/Beauty/content/chapter.md)

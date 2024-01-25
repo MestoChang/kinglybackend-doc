@@ -434,16 +434,20 @@ body.sticky .sidebar-toggle {
 }
 
 table th:first-of-type {
-    width: 12%;
+    max-width: 15%;
 }
-table th:nth-of-type(2) {
+table th {
+	min-width: 8%;
+}
+/* table th:nth-of-type(2) {
     width: 14%;
-}
-table th:nth-of-type(3) {
+} */
+/* table th:nth-of-type(3) {
     width: 14%;
-}
+} */
 table th:last-of-type {
-    width: 60%;
+	min-witdh: 25%;
+    max-width: 60%;
 }
 
 .markdown-section th {
