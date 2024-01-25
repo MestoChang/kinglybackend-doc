@@ -434,6 +434,7 @@ body.sticky .sidebar-toggle {
 }
 
 table th:first-of-type {
+	min-width: 10%;
     max-width: 15%;
 }
 table th {
