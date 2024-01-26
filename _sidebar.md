@@ -57,8 +57,9 @@
   * 主題內容管理
     * [章節管理](Pages/Beauty/content/chapter.md)
     * [文章列表](Pages/Beauty/content/article-list.md)
-    * [文章](Pages/Beauty/content/article.md)
+    * [編輯文章](Pages/Beauty/content/article-edit.md)
     * [新增文章](Pages/Beauty/content/add-article.md)
+    * [預覽文章](Pages/Beauty/content/preview-article.md)
 
   * 課程管理 (二階段)
     * [課程列表](Pages/Beauty/course/course-list.md)
