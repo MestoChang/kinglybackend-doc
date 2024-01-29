@@ -28,9 +28,9 @@
   * 頁面說明
     * [登入](Pages/Account/login.md)
     * [綁定帳號資料](Pages/Account/bind-account.md)
-    * [重設密碼](Pages/Account/reset-password.md)
-    * [e-mail 認證](Pages/Account/verity-email.md)
     * [忘記密碼](Pages/Account/forget-password.md)
+    * [e-mail 認證](Pages/Account/verity-email.md)
+    * [重設密碼](Pages/Account/reset-password.md)
     * [輸入 PIN 碼](Pages/Account/enter-pin.md)
     * [帳號資料](Pages/Account/account-info.md)
     * [修改密碼](Pages/Account/change-password.md)

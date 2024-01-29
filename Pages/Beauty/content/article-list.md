@@ -40,29 +40,29 @@
 
 ### 審核文章
 
-![審核文章流程](asset/vertify-article.jpg)
+![審核文章流程](asset/vertify-article-flow.jpg)
 
 - 首次通過審核的時間記錄微發布時間，假設之後
 
-![還原審核文章流程](asset/cancel-vertify-article.jpg)
+![還原審核文章流程](asset/cancel-vertify-article-flow.jpg)
 
 <br>
 
 ### 停用文章
 
-![停用文章流程](asset/suspended-article.jpg)
+![停用文章流程](asset/suspended-article-flow.jpg)
 
-![還原停用文章流程](asset/cancel-suspended-article.jpg)
+![還原停用文章流程](asset/cancel-suspended-article-flow.jpg)
 
 <br>
 
 ### 刪除文章
 
-![刪除文章流程](asset/delete-article.jpg)
+![刪除文章流程](asset/delete-article-flow.jpg)
 
-![還原刪除文章流程](asset/cencel-delete-article.jpg)
+![還原刪除文章流程](asset/cencel-delete-article-flow.jpg)
 
-![永久刪除文章流程](asset/forever-delete-article.jpg)
+![永久刪除文章流程](asset/forever-delete-article-flow.jpg)
 
 !> 永久刪除為不可逆的操作。
 
