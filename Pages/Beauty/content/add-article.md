@@ -1,5 +1,6 @@
 # 新增文章
-> 建立新文章時步驟一畫面。
+> - 建立新文章時步驟一畫面。
+> - 參考 [文章列表](Pages/Beauty/content/article-list.md) 內的文章狀態說明。
 
 <br>
 
@@ -24,5 +25,5 @@
 
 ## 操作流程
 
-![操作流程](./asset/add-article-flow.jpg)
+![新增文章流程](./asset/add-article-flow.jpg)
 

@@ -32,7 +32,7 @@
     * [e-mail 認證](Pages/Account/verity-email.md)
     * [忘記密碼](Pages/Account/forget-password.md)
     * [輸入 PIN 碼](Pages/Account/enter-pin.md)
-    * [帳號資料](Pages/Account/account.md)
+    * [帳號資料](Pages/Account/account-info.md)
     * [修改密碼](Pages/Account/change-password.md)
     * [變更 e-mail](Pages/Account/change-email.md)
     * [檢視登入紀錄](Pages/Account/login-history.md)
