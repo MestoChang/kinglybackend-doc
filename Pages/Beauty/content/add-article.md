@@ -13,13 +13,7 @@
 | 項目 | 類型 | 操作 | 系統回應與處理邏輯 |
 | --- | --- | --- | --- |
 |文章標題|	input | type|	建立文章 ID|
-
-<br>
-
-### 按鈕行為
-|按鈕|	行為|	說明|
-|---|---|---|
-|下一步| -|		跳轉至[文章](Pages/Beauty/content/article.md)|
+|下一步| Button | Click |跳轉至 [編輯文章](Pages/Beauty/content/article-edit.md)|
 
 <br>
 
