@@ -1,5 +1,5 @@
 # 驗證 e-mail
-> 在[綁定帳號資料](Pages/Account/bind-account.md)頁面內送出後跳轉至此頁面
+> 在[綁定帳號資料](Pages/Account/bind-account.md) 或者 [更改 e-mail](Pages/Account/change-email.md) 頁面內送出後跳轉至此頁面
 
 ![畫面示意](asset/vertify-email.png)
 
