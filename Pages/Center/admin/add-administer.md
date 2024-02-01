@@ -5,6 +5,7 @@
 
 ![畫面示意](asset/add-administer.png)
 
+<br>
 
 ## 頁面元件
 | 項目 | 必填 |	限制 | 說明 |

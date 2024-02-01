@@ -2,6 +2,7 @@
 
 > - 包含[身分列表](Pages/Center/role/role-list.md)、[新增身分](Pages/Center/role/add-role.md)、[設定身分權限](Pages/Center/role/set-role.md)三個頁面
 > - 身分影響在平台內可操作的後台功能，除了由身分所設定的功能外，也可額外設定帳號的功能權限。
+> - 參考 [帳號身分與權限功能規劃文件](https://docs.google.com/spreadsheets/d/1XgOBzdOp28u2-t_UxcL_r02reMrV3yOPfa2bY_cacsQ/edit?usp=sharing)
 
 <br>
 
@@ -29,5 +30,5 @@
 | D | 授課講師 | - 編輯個人資料、經歷等。	<br>- 前端登入 |
 | D | 課程助教 | - 協助講師回答問題，編輯課程說明及課程附件等。<br>- 前端登入|
 
-- [帳號身分與權限功能規劃文件](https://docs.google.com/spreadsheets/d/1XgOBzdOp28u2-t_UxcL_r02reMrV3yOPfa2bY_cacsQ/edit?usp=sharing)
+
 
