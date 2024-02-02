@@ -14,7 +14,7 @@
   * 身分權限管理
     * [身分權限說明](Pages/Center/role/role-manage.md)
     * 頁面說明
-      * [身分列表](Pages/Center/role/role-list.md)
+      * [身分權限列表](Pages/Center/role/role-list.md)
       * [新增身分](Pages/Center/role/add-role.md)
       * [設定身分權限](Pages/Center/role/set-role.md)
   * 會員管理 (二階段)
