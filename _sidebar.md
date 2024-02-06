@@ -3,6 +3,22 @@
   * [Header](Pages/components/header.md)
   * [SideMenu](Pages/components/sidemenu.md)
 
+
+* 帳號功能頁面
+  * [頁面架構說明](Pages/Account/account-page-structure.md)
+  * 頁面說明
+    * [登入](Pages/Account/login.md)
+    * [綁定帳號資料](Pages/Account/bind-account.md)
+    * [驗證 e-mail](Pages/Account/verity-email.md)
+    * [忘記密碼](Pages/Account/forget-password.md)
+    * [重設密碼](Pages/Account/reset-password.md)
+    * [輸入 PIN 碼](Pages/Account/enter-pin.md)
+    * [帳號資料](Pages/Account/account-info.md)
+    * [更改密碼](Pages/Account/change-password.md)
+    * [更改 e-mail](Pages/Account/change-email.md)
+    * [檢視登入紀錄](Pages/Account/login-history.md)
+
+
 * 全域管理平台
   * [主頁](Pages/Center/main.md)
   * 管理員系統
@@ -22,20 +38,6 @@
     * [會員資料](Pages/Center/member/member-info.md) -->
   * 交易管理 (二階段)
 
-
-* 帳號功能頁面
-  * [頁面架構說明](Pages/Account/account-page-structure.md)
-  * 頁面說明
-    * [登入](Pages/Account/login.md)
-    * [綁定帳號資料](Pages/Account/bind-account.md)
-    * [驗證 e-mail](Pages/Account/verity-email.md)
-    * [忘記密碼](Pages/Account/forget-password.md)
-    * [重設密碼](Pages/Account/reset-password.md)
-    * [輸入 PIN 碼](Pages/Account/enter-pin.md)
-    * [帳號資料](Pages/Account/account-info.md)
-    * [更改密碼](Pages/Account/change-password.md)
-    * [更改 e-mail](Pages/Account/change-email.md)
-    * [檢視登入紀錄](Pages/Account/login-history.md)
 
 
 * 美容百科平台
