@@ -12,7 +12,7 @@
 | 項目 | 類型 | 操作 | 系統回應與處理邏輯 |
 | --- | --- | --- | --- |
 | 新增媒體 | Button | Click | 開啟 [新增媒體](Pages/Beauty/media/add-media.md) |
-| 停用 | Button | Click | - |
+| 停用 | Button | Click | 參考 [媒體狀態變更] |
 | 取消 | Button | Click | - |
 | 刪除 | Button | Click | - |
 | 媒體列表 | Table | - | 點選後開啟 [媒體內容](Pages/Beauty/media/media-info.md) |

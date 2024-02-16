@@ -1,9 +1,7 @@
 # 新增媒體
 
 
-
 ![畫面示意](asset/add-media.png)
-
 
 
 ## 頁面元素
@@ -15,7 +13,6 @@
 | 選擇檔案 | file | upload | - |
 | 媒體描述 | Textarea | Type | - |
 | 關鍵字 | Input | Type | 至少需選擇一個關鍵字 |
-
 
 
 

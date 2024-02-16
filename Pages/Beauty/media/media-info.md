@@ -24,7 +24,7 @@
 ### 編輯媒體
 ![編輯媒體資訊](asset/edit-media-info-flow.png)
 
-### 變更狀態
+### 變更媒體狀態
 參考 [媒體狀態變更](Pages/Beauty/media/media-list.md#媒體狀態變更)
 
 
