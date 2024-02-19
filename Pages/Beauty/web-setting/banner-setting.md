@@ -14,7 +14,7 @@
 | 輪播時間設定 | Input | Type | 輸入秒數 |
 | 選擇檔案 | File | upload | 須符合 banner 圖片格式及尺寸大小限制 |
 | 圖片標題 | Input | Type | - |
-| 優先顯示 | Checkbox | Choose | 設為優先顯示的圖片排序會調整為第一張，若同時數張設定優先顯示， |
+| 優先顯示 | Checkbox | Choose | 設為優先顯示的圖片排序會調整為第一張，若同時數張設定優先顯示，則按照上傳時間倒序顯示 |
 | 圖片連結 | Input | Type | 在首頁點擊圖片後跳轉至連結 |
 
 <!-- TODO banner的排序方式? -->
@@ -31,4 +31,6 @@
 ### 變更間隔時間
 ![變更間隔時間](asset/refresh-banner-time.png)
 
+### Banner 顯示順序判斷
+![判斷顯示順序](asset/banner-order-flow.png)
 
