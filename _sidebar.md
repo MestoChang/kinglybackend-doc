@@ -44,9 +44,9 @@
   * [主頁](Pages/Beauty/main.md)
 
   * 網站設定
-    * [首頁設定](Pages/Beauty/web-setting/Home-setting.md)
+    * [首頁設定(二階段)](Pages/Beauty/web-setting/Home-setting.md)
     * [更換 Banner](Pages/Beauty/web-setting/banner-setting.md)
-    * [前端顯示設定](Pages/Beauty/web-setting/display-setting.md)
+    * [前端顯示設定(二階段)](Pages/Beauty/web-setting/display-setting.md)
 
   * 會員管理
     * [會員類型與等級權限說明](Pages/Beauty/member/member-cat.md)
@@ -81,8 +81,8 @@
 
   * 留言管理
     * [留言列表](Pages/Beauty/comment/comment-list.md)
-    * [留言](Pages/Beauty/comment/comment.md)
-    * [留言獎勵設定](Pages/Beauty/comment/comment-award.md)
+    * [留言內容](Pages/Beauty/comment/comment.md)
+    * [留言獎勵設定(二階段)](Pages/Beauty/comment/comment-award.md)
 
   * 關鍵字管理
     * [關鍵字群組列表](Pages/Beauty/keyword/keyword-group-list.md)
@@ -90,7 +90,7 @@
     * [關鍵字列表](Pages/Beauty/keyword/keyword-list.md)
     * [關鍵字關聯列表](Pages/Beauty/keyword/keyword-related-list.md)
 
-  * 廣告管理 (二階段)
+  * 廣告管理 (進行中)
     * [廣告欄位列表](Pages/Beauty/advertisement/ad-position-list.md)
     * [廣告圖片列表](Pages/Beauty/advertisement/ad-list.md)
     * [新增廣告圖片](Pages/Beauty/advertisement/add-ad.md)
