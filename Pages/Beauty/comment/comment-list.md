@@ -27,10 +27,13 @@
 ## 前端網站狀態說明
 
 ### 未登入無法留言
+> 前端會員未登入的情況下無法留言
 ![未登入](asset/comment-unlogin.png)
 
 ### 登入情況下可正常留言
 ![登入可留言](asset/comment-login.png)
 
 ### 被隱藏的留言
+> 違反規範的留言被隱藏後，前端顯示被隱藏
 ![隱藏留言](asset/comment-banned.png)
+
