@@ -1,7 +1,8 @@
 
-* Components
+* 通用元件說明
   * [Header](Pages/components/header.md)
   * [SideMenu](Pages/components/sidemenu.md)
+  * [權限限制頁面](Pages/components/banned-page)
 
 
 * 帳號功能頁面
