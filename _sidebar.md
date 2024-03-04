@@ -21,7 +21,7 @@
 
 
 * 全域管理平台
-  * [主頁](Pages/Center/main.md)
+  * [主頁(二階段)](Pages/Center/main.md)
   * 管理員系統
     * [管理員帳號層級說明](Pages/Center/admin/administer-manage.md)
     * 頁面說明
@@ -42,7 +42,7 @@
 
 
 * 美容百科平台
-  * [主頁](Pages/Beauty/main.md)
+  * [主頁(二階段)](Pages/Beauty/main.md)
 
   * 網站設定
     * [首頁設定(二階段)](Pages/Beauty/web-setting/Home-setting.md)
