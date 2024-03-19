@@ -21,7 +21,8 @@
 
 
 * 全域管理平台
-  * [主頁(二階段)](Pages/Center/main.md)
+  <!-- * [主頁(二階段)](Pages/Center/main.md) -->
+  * 主頁(二階段)
   * 管理員系統
     * [管理員帳號層級說明](Pages/Center/admin/administer-manage.md)
     * 頁面說明
@@ -42,12 +43,15 @@
 
 
 * 美容百科平台
-  * [主頁(二階段)](Pages/Beauty/main.md)
+  <!-- * [主頁(二階段)](Pages/Beauty/main.md) -->
+  * 主頁(二階段)
 
   * 網站設定
-    * [首頁設定(二階段)](Pages/Beauty/web-setting/Home-setting.md)
+    <!-- * [首頁設定(二階段)](Pages/Beauty/web-setting/Home-setting.md) -->
+    * 首頁設定(二階段)
     * [更換 Banner](Pages/Beauty/web-setting/banner-setting.md)
-    * [前端顯示設定(二階段)](Pages/Beauty/web-setting/display-setting.md)
+    <!-- * [前端顯示設定(二階段)](Pages/Beauty/web-setting/display-setting.md) -->
+    * 前端顯示設定
 
   * 會員管理
     * [會員類型與等級權限說明](Pages/Beauty/member/member-cat.md)
@@ -65,12 +69,12 @@
     * [預覽文章](Pages/Beauty/content/preview-article.md)
 
   * 課程管理 (二階段)
-    * [課程列表](Pages/Beauty/course/course-list.md)
+    <!-- * [課程列表](Pages/Beauty/course/course-list.md)
     * [新增課程](Pages/Beauty/course/add-course.md)
     * [課程資訊](Pages/Beauty/course/course-info.md)
     * [講師列表](Pages/Beauty/course/mentor-list.md)
     * [新增講師](Pages/Beauty/course/add-mentor.md)
-    * [講師資訊](Pages/Beauty/course/mentor-info.md)
+    * [講師資訊](Pages/Beauty/course/mentor-info.md) -->
 
   * 媒體庫
     * [媒體類別列表](Pages/Beauty/media/mediafolder-list.md)
@@ -83,7 +87,8 @@
   * 留言管理
     * [留言列表](Pages/Beauty/comment/comment-list.md)
     * [留言內容](Pages/Beauty/comment/comment.md)
-    * [留言獎勵設定(二階段)](Pages/Beauty/comment/comment-award.md)
+    <!-- * [留言獎勵設定(二階段)](Pages/Beauty/comment/comment-award.md) -->
+    * 留言獎勵設定
 
   * 關鍵字管理
     * [關鍵字群組列表](Pages/Beauty/keyword/keyword-group-list.md)
@@ -91,11 +96,11 @@
     * [關鍵字列表](Pages/Beauty/keyword/keyword-list.md)
     * [關鍵字關聯列表](Pages/Beauty/keyword/keyword-related-list.md)
 
-  * 廣告管理 (進行中)
-    * [廣告欄位列表](Pages/Beauty/advertisement/ad-position-list.md)
+  * 廣告管理 (二階段)
+    <!-- * [廣告欄位列表](Pages/Beauty/advertisement/ad-position-list.md)
     * [廣告圖片列表](Pages/Beauty/advertisement/ad-list.md)
     * [新增廣告圖片](Pages/Beauty/advertisement/add-ad.md)
-    * [廣告圖片內容](Pages/Beauty/advertisement/ad-info.md)
+    * [廣告圖片內容](Pages/Beauty/advertisement/ad-info.md) -->
 
   * 交易管理 (二階段)
 
