@@ -21,8 +21,8 @@
 
 
 * 全域管理平台
-  <!-- * [主頁(二階段)](Pages/Center/main.md) -->
-  * 主頁(二階段)
+  * [主頁(二階段)](Pages/Center/main.md)
+
   * 管理員系統
     * [管理員帳號層級說明](Pages/Center/admin/administer-manage.md)
     * 頁面說明
@@ -43,15 +43,12 @@
 
 
 * 美容百科平台
-  <!-- * [主頁(二階段)](Pages/Beauty/main.md) -->
-  * 主頁(二階段)
+  * [主頁(二階段)](Pages/Beauty/main.md)
 
   * 網站設定
-    <!-- * [首頁設定(二階段)](Pages/Beauty/web-setting/Home-setting.md) -->
-    * 首頁設定(二階段)
+    * [首頁設定(二階段)](Pages/Beauty/web-setting/Home-setting.md)
     * [更換 Banner](Pages/Beauty/web-setting/banner-setting.md)
-    <!-- * [前端顯示設定(二階段)](Pages/Beauty/web-setting/display-setting.md) -->
-    * 前端顯示設定
+    * [前端顯示設定(二階段)](Pages/Beauty/web-setting/display-setting.md)
 
   * 會員管理
     * [會員類型與等級權限說明](Pages/Beauty/member/member-cat.md)
