@@ -94,10 +94,11 @@
     * [關鍵字關聯列表](Pages/Beauty/keyword/keyword-related-list.md)
 
   * 廣告管理 (二階段)
-    <!-- * [廣告欄位列表](Pages/Beauty/advertisement/ad-position-list.md)
-    * [廣告圖片列表](Pages/Beauty/advertisement/ad-list.md)
-    * [新增廣告圖片](Pages/Beauty/advertisement/add-ad.md)
-    * [廣告圖片內容](Pages/Beauty/advertisement/ad-info.md) -->
+    * [欄位管理](Pages/Beauty/advertisement/ad-position-list.md)
+    * [欄位設定](Pages/Beauty/advertisement/ad-position-setting.md)
+    * [廣告專案列表](Pages/Beauty/advertisement/ad-list.md)
+    * [新增廣告專案](Pages/Beauty/advertisement/add-ad.md)
+    * [廣告專案內容](Pages/Beauty/advertisement/ad-info.md)
 
   * 交易管理 (二階段)
 
