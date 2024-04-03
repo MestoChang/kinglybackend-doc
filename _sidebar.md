@@ -93,7 +93,7 @@
     * [關鍵字列表](Pages/Beauty/keyword/keyword-list.md)
     * [關鍵字關聯列表](Pages/Beauty/keyword/keyword-related-list.md)
 
-  * 廣告管理 (二階段)
+  * 廣告管理 (進行中)
     * [欄位管理](Pages/Beauty/advertisement/ad-position-list.md)
     * [欄位設定](Pages/Beauty/advertisement/ad-position-setting.md)
     * [廣告專案列表](Pages/Beauty/advertisement/ad-list.md)
