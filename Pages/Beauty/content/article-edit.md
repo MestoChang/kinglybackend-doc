@@ -18,7 +18,7 @@
 |引言| Input | Type | 格式限制為文字，上限 255字|
 |首圖| File | upload |	需符合文章首圖之媒體類別限制|
 |關鍵字| Input | Type |至少需要選擇一個類別。<br>僅能選擇資料庫已有的關鍵字。<br>不得重複選擇關鍵字。<br>在input auto complete 設定關聯資料庫。|
-|優先顯示|	checkbox | choose |	在關聯文章列表內可優先顯示|
+|優先顯示|	checkbox | choose |	在文章列表可優先顯示|
 |會員限定|	checkbox |	choose |	限制未登入的訪客無法觀看|
 |撰寫人| -- | -|	抓取登入操作者的 id|
 |內文撰寫|	textarea | Type |	輸入格式為文字，上限為 10000 字|
