@@ -14,7 +14,7 @@
 | 項目 | 類型 | 操作 | 系統回應與處理邏輯 |
 | --- | --- | --- | --- |
 | 套用更新 | Button | Click | 保存變更並驗證欄位是否符合規範 |
-| 取消 | Button | Click | 返回 [欄位列表](Pages/Beauty/advert/ad-position-list.md) |
+| 取消 | Button | Click | 返回 [欄位列表](Pages/Beauty/advertisement/ad-position-list.md) |
 
 
 
