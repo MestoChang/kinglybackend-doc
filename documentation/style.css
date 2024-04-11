@@ -278,7 +278,7 @@ main.hidden {
 	left: 0;
 	transition: transform .25s ease-out;
 	width: 300px;
-	z-index: 20
+	z-index: 20;
 }
 
 .sidebar>h1 {
@@ -316,7 +316,7 @@ main.hidden {
 
 .sidebar li>p {
 	font-weight: 700;
-	margin: 0.6rem 0;
+	margin: 0.6rem 0.2rem;
 }
 
 .sidebar ul li {
